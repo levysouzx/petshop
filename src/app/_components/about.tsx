@@ -32,10 +32,10 @@ export function About() {
         <div className="space-y-6 mt-10">
           <h2 className="text-4xl font-bold px-5">SOBRE</h2>
           <p className="text-3xl font-semilbold py- px-5">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eos
-            tempore porro praesentium culpa, odio optio fuga veniam accusantium.
-            Commodi vitae enim perferendis molestiae doloremque at iste? Veniam
-            magni laboriosam unde.
+            Nossa empresa trabaha nesse ramo desde 2024, sempre prezando pela
+            qualidade no atendimento e cuidado com seu pet. Oferecemos os melhores
+            cuidados para o seu pet para garantir o bem-estar e a felicidade do
+            seu amigo de quatro patas
           </p>
           <ul className="space-y-4">
             <li className="flex  items-center">
